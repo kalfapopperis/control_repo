@@ -1,7 +1,4 @@
-node defalt(
-    $dilaila,
-  ) {
+node defalt {
   file {'/root/README':
     ensure => file,
-  }
 }
