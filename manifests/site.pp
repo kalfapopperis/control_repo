@@ -1,5 +1,5 @@
 node defalt {
-  file {'/root/README1':
+  file {'/root/README':
     ensure => file,
     }
 }
