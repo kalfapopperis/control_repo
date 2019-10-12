@@ -1,4 +1,4 @@
-node defalt {
+node default {
   file {'/root/README':
     ensure => file,
 }
